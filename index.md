@@ -1,3 +1,12 @@
+#Colin Witt's First CS 193 Lab!!!
+
+This is my Wobsite now! Mwahahahahahaha!!!!
+
+My favorite things about this class!
+- We get to make our own websites
+- It's at a good time of day for me
+- Insert other cool stuff yet to be discovered
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
